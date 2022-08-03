@@ -8,11 +8,12 @@ whatsapp等应用的连接
 
 ### v2rayng，打开app ，然后确认可以使用梯子，之后选择设置
 
-![image-20220803105705128](https://raw.githubusercontent.com/lotsalu/testpic/main/picGO/202208031057035.png)
+![image-20220803105705128](http://cdn.jsdelivr.net/gh/lotsalu/testpic/picGO/202208031057035.png)
+
 
 之后搜索whatsapp
 
-![image-20220803105826058](https://raw.githubusercontent.com/lotsalu/testpic/main/picGO/202208031058781.png)
+![image-20220803105826058](http://cdn.jsdelivr.net/gh/lotsalu/testpic/picGO/202208031058781.png)
 
 ### 之后打开whatsapp
 
